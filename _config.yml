@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://www.hommel-net.de
-title: Hommel-Net Home
+title: Hommel-Net
 email: mario@hommel-net.de
 author: Mario Hommel
 description: > # "Write an awesome description for your new site here. 
@@ -34,7 +34,7 @@ social:
     url: https://facebook.com/mario.hommel
   - title: foursquare
     url: https://de.foursquare.com/dermario
-  - title: google+
+  - title: google
     url: https://plus.google.com/u/0/104161064999906404032
   - title: github
     url: https://github.com/mariohommel
