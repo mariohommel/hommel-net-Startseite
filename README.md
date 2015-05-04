@@ -1,3 +1,10 @@
+# Repo für hommel-net.de
+These are the files for my homepage under http://hommel-net.de.
+It's a fork of the Landing Page Jekyll theme.
+
+Here is the description how to use it.
+
+
 # Landing Page Jekyll theme
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
@@ -18,9 +25,6 @@ The description of this service
 
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
 
 ===
 
