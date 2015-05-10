@@ -2,10 +2,27 @@
 <script src="js/jquery-1.11.0.js"></script>
 
 <!-- Plugin JavaScript -->
-    <script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="js/landing-page.js"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//hommel-net.de/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//hommel-net.de/piwik/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
