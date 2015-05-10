@@ -1,5 +1,5 @@
 # Repo für hommel-net.de
-These are the files for my homepage under http://hommel-net.de.
+These are the files for my homepage at http://hommel-net.de.
 It's a fork of the Landing Page Jekyll theme.
 
 Here is the description how to use it.
